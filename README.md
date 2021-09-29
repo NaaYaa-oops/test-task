@@ -14,6 +14,8 @@
 > ### Stack:
 > > Firebase, React, Redux, Axios
 
+# Test: https://test-task-d2c60.web.app
+
 # Login:
 
 > Email: s@gmail.com
