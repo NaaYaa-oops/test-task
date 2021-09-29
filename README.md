@@ -9,7 +9,7 @@
 > > cards & adding card & editing cards
 >
 > ### Firebase:
-> > Working only with firebase for auth both also db
+> > Working only with firebase for auth also db
 >
 > ### Stack:
 > > Firebase, React, Redux, Axios
@@ -18,4 +18,5 @@
 
 > Email: s@gmail.com
 
-> password: 123321
+
+> Password: 123321
