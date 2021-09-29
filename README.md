@@ -13,3 +13,9 @@
 >
 > ### Stack:
 > > Firebase, React, Redux, Axios
+
+# Login:
+
+> Email: s@gmail.com
+
+> password: 123321

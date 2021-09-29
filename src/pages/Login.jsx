@@ -31,9 +31,12 @@ const Login = (props) => {
     const validationError = (elem) => {
         elem.email.current.classList.add('error')
         elem.password.current.classList.add('error')
+        elem.email.current.value = ''
+        elem.password.current.value = ''
         setTimeout(() => {
             elem.email.current.classList.remove('error')
             elem.password.current.classList.remove('error')
+
         }, 2000)
     }
     const loginHandler = (e) => {
