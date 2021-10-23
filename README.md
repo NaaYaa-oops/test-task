@@ -1,4 +1,4 @@
-# Test task app for $Company
+# Test task app for Cleveroad
 
 ## Task:
 
